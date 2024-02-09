@@ -3,6 +3,8 @@
 ## About
 This repository showcases the power of integrating Python and SQL within Google Colab notebooks using the ipython-sql package. If you're a data enthusiast looking to streamline your data workflow, you're in the right place!
 
+![Google Colab with SQL](sql-colab.jpg)
+
 ## Overview
 As a data engineer deeply immersed in Python, SQL, and cloud technologies, I've been exploring ways to maximize efficiency in my data projects. Google Colab has been my go-to platform for its powerful computing capabilities, but I found myself missing the seamless integration of SQL. That's where ipython-sql comes in!
 
